@@ -17,7 +17,7 @@ export const Field = styled.label`
 
 export const Input = styled.input`
   margin-botoom: 10px;
-  width: 350px;
+  width: 360px;
 `;
 
 export const Button = styled.button`
